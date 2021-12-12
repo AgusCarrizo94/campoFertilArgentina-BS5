@@ -1,0 +1,17 @@
+.card-scale:hover {
+    box-shadow: 0px 5px 10px 0px #7A7A7A;
+    transition: transform .5s;
+    transform:  scale(1.05);
+    z-index: 10;
+}
+
+.card-scale:active {
+    box-shadow: 0px 5px 10px 0px #7A7A7A;
+    transition: transform .5s;
+    transform:  scale(1.05);
+    z-index: 10;
+}
+
+.bordes-noticia {
+    border-radius: 10%;
+}
